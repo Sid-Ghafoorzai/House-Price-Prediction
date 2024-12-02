@@ -1,8 +1,10 @@
-House Price Prediction
+**House Price Prediction Through Machine Learning**
+
+
 Description
 This project focuses on predicting house prices using various machine learning techniques. The notebook explores, preprocesses, and models a dataset of housing prices, demonstrating step-by-step feature selection and model building. The objective is to develop a robust prediction model that can estimate house prices accurately based on selected features.
 
-Dataset
+**Dataset**
 The dataset used for this project includes the following details about houses:
 
 
@@ -15,7 +17,7 @@ Note: the data used is machine generated not real data
 
 
 
-Steps in the Project
+**Steps in the Project**
 Exploratory Data Analysis (EDA):
 
 Statistical summaries and visualizations.
@@ -32,7 +34,7 @@ Final Selected Features:
 SquareMeters, floors, hasPool, hasYard, and cityPartRange.
 Model Building:
 
-Linear Regression
+**Linear Regression**
 Additional models (to be specified, e.g., Random Forest, Gradient Boosting, etc.).
 Model Evaluation:
 
@@ -45,8 +47,7 @@ Data Analysis: pandas, numpy
 Visualization: matplotlib, seaborn
 Machine Learning: scikit-learn
 
-
-How to Run
+****How to Run****
 Clone this repository:
 bash
 Copy code
@@ -70,7 +71,7 @@ Enhancing the preprocessing pipeline.
 
 
 
-Author
+**Author**
 Sadaqat Ghafoorzai
 For questions or suggestions, feel free to reach out!
 
