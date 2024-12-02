@@ -51,7 +51,7 @@ Machine Learning: scikit-learn
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/yourusername/House-Price-Prediction.git
+git clone https://github.com/Sid-Ghafoorzai/House-Price-Prediction.git
 Install dependencies:
 bash
 Copy code
